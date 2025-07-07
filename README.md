@@ -32,8 +32,7 @@ An AI-powered HR assistant that helps employees quickly find information about c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hr-assistant.git
-cd hr-assistant
+git clone https://github.com/shubham587/hr-assistant.git
 ```
 
 ### 2. Backend Setup
